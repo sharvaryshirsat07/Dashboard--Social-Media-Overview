@@ -51,6 +51,7 @@ The dashboard includes the following visualizations and features:
 - **Content Strategy**: Identifying the most engaging content categories helps refine the social media strategy, ensuring that resources are allocated to high-performing content types.
 
 ## Final Conclusion
+<a href='https://github.com/sharvaryshirsat07/Dashboard--Social-Media-Overview/blob/main/follower%20growth.pdf'>Dashboard</a>
 
 This Power BI dashboard is a powerful tool for understanding social media performance, helping users make data-driven decisions to enhance their social media strategies. By tracking follower growth, engagement metrics, and the impact of ad spend, social media managers can better optimize their campaigns for greater success.
 
