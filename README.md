@@ -11,7 +11,6 @@ The following datasets were used to build the dashboard:
 1. **Likes.xlsx**: Contains data on the number of likes each social media post received across different time periods. This helps analyze post engagement.
 2. **Managers.xlsx**: Contains information on social media managers responsible for the posts, along with their respective ad spends and strategies.
 3. **Social Media Analytics.xlsx**: A comprehensive dataset that includes metrics like follower count, engagement rate, post type (video, image, etc.), and content category. This forms the primary dataset for tracking overall social media performance.
-4. **Follower Growth.pdf**: A document detailing the trends and patterns in follower growth over time, which provides context and additional insights into the data from the other files.
 
 ## Key Performance Indicators (KPIs)
 
@@ -25,7 +24,7 @@ The following KPIs are analyzed in the Power BI dashboard:
 
 ## Process
 
-1. **Data Collection**: Gathered social media data from **Likes.xlsx**, **Managers.xlsx**, **Social Media Analytics.xlsx**, and **Follower Growth.pdf**.
+1. **Data Collection**: Gathered social media data from **Likes.xlsx**, **Managers.xlsx**, & **Social Media Analytics.xlsx**.
 2. **Data Cleaning**: Preprocessed the data to ensure consistency, handling missing values and ensuring correct data formatting.
 3. **Power BI Dashboard Creation**: 
    - Imported data from the various files into Power BI.
